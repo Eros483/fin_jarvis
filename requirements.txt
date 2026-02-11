@@ -1,0 +1,5 @@
+neo4j>=5.0.0
+python-docx>=1.0.0
+google-genai>=0.2.0
+python-dotenv>=1.0.0
+tabulate>=0.9.0
